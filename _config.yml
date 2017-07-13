@@ -10,24 +10,29 @@ desc: YanG's BLOG
 custom:
     category:
         default: Default Category
-        another: Another Category
+        JAVA: JAVA
+        Android: Android
+        
     categories:
       - name:  default
         title: Default Category
 
-      - name:  another
-        title: Another Category
+      - name:  JAVA
+        title: JAVA
+      
+      - name:  Android
+        title: Android
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
-        name: Ynag
+        name: YanG
         email: yang414380863@qq.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: yang414380863               # GitHub账号
-        gravatar: 1cd8c12591616d8c22aaa624f8c07834  # Gravatar头像标识
+        gravatar: 3b7e36a09a6e81764daab4c0301851dd  # Gravatar头像标识
 
     disqus: disqus.com/embed.js                     # Disqus评论的JS地址
     gapi: http://www.google.com/jsapi               # Google API地址
