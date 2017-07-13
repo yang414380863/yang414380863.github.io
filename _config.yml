@@ -12,6 +12,7 @@ custom:
         default: Default
         JAVA: JAVA
         Android: Android
+        Algorithm: 算法
         
     categories:
       - name:  default
@@ -22,6 +23,9 @@ custom:
       
       - name:  Android
         title: Android
+
+      - name:  Algorithm
+        title: 算法
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
