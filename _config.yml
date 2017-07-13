@@ -9,13 +9,13 @@ desc: YanG's BLOG
 
 custom:
     category:
-        default: Default Category
+        default: Default
         JAVA: JAVA
         Android: Android
         
     categories:
       - name:  default
-        title: Default Category
+        title: Default
 
       - name:  JAVA
         title: JAVA
