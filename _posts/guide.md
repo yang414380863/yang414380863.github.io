@@ -1,0 +1,36 @@
+---
+layout: post
+title: Guide
+category: default
+---
+
+
+#标题1
+
+##标题2
+
+>注释1
+
+>     注释2
+
+*斜体* _斜体_
+
+**粗体** __粗体__
+
+* 无序列表
++ 无序列表
+- 无序列表
+
+1. 有序列表
+2. 有序列表
+
+[www.baidu.com链接1](www.baidu.com)
+
+![图片](/path/to/img.jpg "Title")
+
+`<代码>`
+
+
+下划线
+
+---
