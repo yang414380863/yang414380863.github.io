@@ -3,7 +3,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: YanGGGGG
+name: YanG
 host: localhost
 desc: YanG's BLOG
 
